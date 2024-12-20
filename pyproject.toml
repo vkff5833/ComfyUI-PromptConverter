@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-promptconverter"
+description = "A ComfyUI custom node that converts prompts between different AI image generation models."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/vkff5833/ComfyUI-PromptConverter"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-PromptConverter"
+Icon = ""
